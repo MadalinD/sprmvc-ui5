@@ -18,7 +18,8 @@ import javax.validation.Valid;
  * component scan, see {@linkplain org.springframework.context.annotation.ComponentScan} annotation specification on
  * {@linkplain com.github.springui5.conf.WebAppConfigurer}.
  *
- * @author gushakov
+ * @author gushakov 
+ * Extra
  */
 @Controller
 @RequestMapping(value = "/home", method = RequestMethod.POST, consumes = "application/json", produces = "application/json")
