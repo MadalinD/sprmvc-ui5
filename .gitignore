@@ -1,5 +1,2 @@
 /target/
-.classpath
-.project
-.jsdtscope
-org.eclipse*
+.metadata
